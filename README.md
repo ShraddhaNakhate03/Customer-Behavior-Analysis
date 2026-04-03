@@ -1,13 +1,71 @@
-# Customer-Behavior-Analysis
-Dtaa Analysis Project showcasing customer behavior analysis using python, SQL and  Power BI
+🚀 Customer Shopping Behavior Analysis
+📌 Project Overview
 
-#Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+This project analyzes customer shopping behavior using real-world transactional data to uncover insights that drive smarter business decisions.
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+The dataset consists of 3,900+ purchase records, including customer demographics, purchase patterns, and product preferences.
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+🎯 Objective
+Understand customer purchasing behavior
+Identify high-value customer segments
+Analyze impact of discounts, shipping, and subscriptions
+Provide actionable business recommendations
+🛠️ Tech Stack
+Python (Pandas, NumPy)
+Data Visualization (Matplotlib, Seaborn)
+SQL (PostgreSQL)
+Jupyter Notebook
+📊 Dataset Details
+Total Records: 3,900+ transactions
+Features: 18 columns
+Missing Values: Handled using median imputation
+⚙️ Data Processing Steps
+Data loading using Pandas
+Data cleaning & handling missing values
+Exploratory Data Analysis (EDA)
+Feature engineering (age groups, purchase frequency)
+Data storage & querying using PostgreSQL
+🔍 Key Insights
+👩‍🦰 Revenue by Gender
+Female customers generate slightly higher revenue than male customers
+Opportunity: Target gender-specific marketing strategies
+💰 High-Value Discount Users
+Identified customers who spend above average while using discounts
+Insight: “Smart shoppers” maximize value → strong segment for offers
+⭐ Top-Rated Products
+Blouse → Highest rating
+Dress → Consistently high satisfaction
+Shirt → Strong performance
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+👉 These products can be prioritized in marketing campaigns
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+🚚 Shipping Impact
+Express shipping users spend 12% more than standard users
+Opportunity: Promote faster shipping for higher revenue
+📦 Subscription Impact
+Subscribers spend 68% more
+Contribute 45% of total revenue
+Show 78% repeat purchase rate
+
+👉 Subscription model is a major revenue driver
+
+👥 Customer Segmentation
+Loyal Customers → 15% (High value)
+Returning Customers → 35%
+New Customers → 50%
+
+👉 Focus: Convert New → Returning → Loyal
+
+💡 Business Recommendations
+Boost subscription programs with exclusive benefits
+Implement loyalty programs to retain customers
+Target high-value and discount users strategically
+Promote top-rated products in campaigns
+Encourage express shipping adoption
+📸 Project Output
+Interactive dashboards
+Data-driven insights
+Business recommendations
+🔗 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/shraddhanakhate29
+💻 GitHub: https://www.github.com/in/ShraddhaNakhate03
