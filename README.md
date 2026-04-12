@@ -1,91 +1,100 @@
-🛍️ Customer Behaviour Analysis Dashboard
+# 🛍️ Customer Behaviour Analysis Dashboard
 
-🔍 Business Problem
-
+## 🔍 Business Problem
 In today’s competitive market, businesses struggle to understand customer purchasing patterns, retention behavior, and revenue drivers. Without clear insights, companies risk losing high-value customers and missing growth opportunities.
 
-🎯 Objective
+---
 
+## 🎯 Objective
 The goal of this project is to analyze customer data and:
+- Identify high-value customers
+- Understand buying behavior and trends
+- Detect customer churn patterns
+- Enable data-driven decision making
 
-Identify high-value customers
+---
 
-Understand buying behavior & trends
-
-Detect customer churn patterns
-
-Improve decision-making using data-driven insights
-
-📊 Dashboard Overview
-
+## 📊 Dashboard Overview
 This interactive dashboard provides a comprehensive view of customer behavior, including:
 
-💰 Revenue Analysis (Total Sales, Avg Order Value)
+- Revenue Analysis (Total Sales, Average Order Value)
+- Customer Segmentation (High, Medium, Low value)
+- Purchase Trends (Monthly and Yearly)
+- Repeat vs New Customers
+- Region-wise Sales Performance
 
-👥 Customer Segmentation (High, Medium, Low value)
+---
 
-📅 Purchase Trends (Monthly/Yearly patterns)
+## 📸 Dashboard Preview
 
-🔁 Repeat vs New Customers
-
-🌍 Region-wise Sales Performance
-
-📸 Dashboard Preview
+<img width="1229" height="681" alt="Screenshot 2026-04-04 000828" src="https://github.com/user-attachments/assets/16e5d06d-8b24-4e8e-a3fd-2eea77ca8822" />
 
 
-<img width="1229" height="681" alt="Screenshot 2026-04-04 000828" src="https://github.com/user-attachments/assets/129e649d-7d82-4b08-91bd-9e577ffc37cf" />
+---
 
-Example:
+## 📈 Key Insights
+- Top 20% customers contribute to ~80% of total revenue
+- Customer churn increased in recent months
+- Repeat customers generate higher average order value
+- Some regions show untapped growth potential
+- Seasonal spikes observed during festive periods
 
-![Customer Dashboard](dashboard.png)
+---
 
-📈 Key Insights
+## 🚀 Business Impact
+- Improved customer retention strategies
+- Identified high-value customer segments
+- Enabled targeted marketing campaigns
+- Focused on profitable regions and products
 
-🔥 Top 20% customers contribute to ~80% of total revenue
-📉 Customer churn rate increased in recent months
-🛒 Repeat customers generate higher average order value
-🌍 Certain regions show untapped growth potential
-📅 Seasonal spikes observed during festive periods
+---
 
-🚀 Business Impact
+## 🛠️ Tools & Technologies
+- Power BI – Data Visualization
+- SQL – Data Querying
+- Excel – Data Cleaning
+- DAX – Calculations and Measures
 
-Improved customer retention strategies
-Helped identify high-value customer segments
-Enabled targeted marketing campaigns
-Increased focus on profitable regions & products
+---
 
-🛠️ Tools & Technologies
+## ⚙️ Process Workflow
+1. Data Collection (CSV / Database)
+2. Data Cleaning and Transformation (ETL)
+3. Data Modeling (Relationships, Schema)
+4. Dashboard Development (Power BI)
+5. Insight Generation
 
-Power BI – Data Visualization & Dashboarding
-SQL – Data Extraction & Querying
-Excel – Data Cleaning & Preprocessing
-DAX – Measures & Calculations
+---
 
-⚙️ Process Workflow
+## 📌 Key Features
+- Interactive filters and slicers
+- Drill-down capabilities
+- KPI indicators
+- Business-focused dashboard design
 
-Data Collection (CSV/Database)
-Data Cleaning & Transformation (ETL)
-Data Modeling (Relationships, Star Schema)
-Dashboard Creation (Power BI)
-Insight Generation & Storytelling
+---
 
-📌 Key Features
+## 📂 Project Structure
+Customer-Behaviour-Analysis/
+│
+├── Dashboard.pbix
+├── dataset.csv
+├── dashboard.png
+└── README.md
 
-Interactive filters & slicers
-Drill-down capabilities
-KPI indicators for performance tracking
-User-friendly and business-focused design
+---
 
-📂 Project Structure
-📁 Customer-Behaviour-Analysis
- ┣ 📊 Dashboard.pbix
- ┣ 📄 dataset.csv
- ┣ 📸 dashboard.png
- ┗ 📜 README.md
- 
+## 💡 Future Enhancements
+- Add customer churn prediction model
+- Build recommendation system
+- Integrate real-time data pipeline
 
-🔗 Connect With Me
+---
 
-💼 LinkedIn: (Add your LinkedIn link here)
-💻 GitHub: (Add your GitHub profile link)
-⭐ If you found this project useful, don’t forget to star the repository!
+## 🔗 Connect With Me
+LinkedIn: shraddhankahate29
+GitHub: ShraddhaNakhate03
+
+---
+
+## ⭐ If you found this project useful, please give it a star!
