@@ -1,71 +1,77 @@
-🚀 Customer Shopping Behavior Analysis
-📌 Project Overview
+🛍️ Customer Behaviour Analysis Dashboard
 
-This project analyzes customer shopping behavior using real-world transactional data to uncover insights that drive smarter business decisions.
+🔍 Business Problem
 
-The dataset consists of 3,900+ purchase records, including customer demographics, purchase patterns, and product preferences.
+In today’s competitive market, businesses struggle to understand customer purchasing patterns, retention behavior, and revenue drivers. Without clear insights, companies risk losing high-value customers and missing growth opportunities.
 
 🎯 Objective
-Understand customer purchasing behavior
-Identify high-value customer segments
-Analyze impact of discounts, shipping, and subscriptions
-Provide actionable business recommendations
-🛠️ Tech Stack
-Python (Pandas, NumPy)
-Data Visualization (Matplotlib, Seaborn)
-SQL (PostgreSQL)
-Jupyter Notebook
-📊 Dataset Details
-Total Records: 3,900+ transactions
-Features: 18 columns
-Missing Values: Handled using median imputation
-⚙️ Data Processing Steps
-Data loading using Pandas
-Data cleaning & handling missing values
-Exploratory Data Analysis (EDA)
-Feature engineering (age groups, purchase frequency)
-Data storage & querying using PostgreSQL
-🔍 Key Insights
-👩‍🦰 Revenue by Gender
-Female customers generate slightly higher revenue than male customers
-Opportunity: Target gender-specific marketing strategies
-💰 High-Value Discount Users
-Identified customers who spend above average while using discounts
-Insight: “Smart shoppers” maximize value → strong segment for offers
-⭐ Top-Rated Products
-Blouse → Highest rating
-Dress → Consistently high satisfaction
-Shirt → Strong performance
 
-👉 These products can be prioritized in marketing campaigns
+The goal of this project is to analyze customer data and:
 
-🚚 Shipping Impact
-Express shipping users spend 12% more than standard users
-Opportunity: Promote faster shipping for higher revenue
-📦 Subscription Impact
-Subscribers spend 68% more
-Contribute 45% of total revenue
-Show 78% repeat purchase rate
+Identify high-value customers
+Understand buying behavior & trends
+Detect customer churn patterns
+Improve decision-making using data-driven insights
+📊 Dashboard Overview
 
-👉 Subscription model is a major revenue driver
+This interactive dashboard provides a comprehensive view of customer behavior, including:
 
-👥 Customer Segmentation
-Loyal Customers → 15% (High value)
-Returning Customers → 35%
-New Customers → 50%
+💰 Revenue Analysis (Total Sales, Avg Order Value)
+👥 Customer Segmentation (High, Medium, Low value)
+📅 Purchase Trends (Monthly/Yearly patterns)
+🔁 Repeat vs New Customers
+🌍 Region-wise Sales Performance
 
-👉 Focus: Convert New → Returning → Loyal
+📸 Dashboard Preview
 
-💡 Business Recommendations
-Boost subscription programs with exclusive benefits
-Implement loyalty programs to retain customers
-Target high-value and discount users strategically
-Promote top-rated products in campaigns
-Encourage express shipping adoption
-📸 Project Output
-Interactive dashboards
-Data-driven insights
-Business recommendations
+
+<img width="1229" height="681" alt="Screenshot 2026-04-04 000828" src="https://github.com/user-attachments/assets/129e649d-7d82-4b08-91bd-9e577ffc37cf" />
+
+Example:
+
+![Customer Dashboard](dashboard.png)
+
+📈 Key Insights
+🔥 Top 20% customers contribute to ~80% of total revenue
+📉 Customer churn rate increased in recent months
+🛒 Repeat customers generate higher average order value
+🌍 Certain regions show untapped growth potential
+📅 Seasonal spikes observed during festive periods
+
+🚀 Business Impact
+Improved customer retention strategies
+Helped identify high-value customer segments
+Enabled targeted marketing campaigns
+Increased focus on profitable regions & products
+
+🛠️ Tools & Technologies
+Power BI – Data Visualization & Dashboarding
+SQL – Data Extraction & Querying
+Excel – Data Cleaning & Preprocessing
+DAX – Measures & Calculations
+
+⚙️ Process Workflow
+Data Collection (CSV/Database)
+Data Cleaning & Transformation (ETL)
+Data Modeling (Relationships, Star Schema)
+Dashboard Creation (Power BI)
+Insight Generation & Storytelling
+
+📌 Key Features
+Interactive filters & slicers
+Drill-down capabilities
+KPI indicators for performance tracking
+User-friendly and business-focused design
+
+📂 Project Structure
+📁 Customer-Behaviour-Analysis
+ ┣ 📊 Dashboard.pbix
+ ┣ 📄 dataset.csv
+ ┣ 📸 dashboard.png
+ ┗ 📜 README.md
+ 
+
 🔗 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/shraddhanakhate29
-💻 GitHub: https://www.github.com/in/ShraddhaNakhate03
+💼 LinkedIn: (Add your LinkedIn link here)
+💻 GitHub: (Add your GitHub profile link)
+⭐ If you found this project useful, don’t forget to star the repository!
